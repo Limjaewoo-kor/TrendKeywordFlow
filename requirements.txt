@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+psycopg2-binary   # PostgreSQL 드라이버
+sqlalchemy        # ORM
+pydantic
+python-dotenv     # 환경 변수 관리
+aiohttp           # 비동기 HTTP 요청 (API 크롤링용)
+selenium          # 티스토리 크롤링용
+openai            # AI 글 생성 기능 연동
+pandas            # 데이터 처리
+pydantic-settings>=2.0.0
+python-multipart
