@@ -14,19 +14,21 @@
    - 다수의 키워드를 입력하여 분석 버튼 클릭시 해당 키워드에 대한 트렌트를 년도/월별 그래프로 시각화 함.
 
 
-
+<br><br>
+<br><br>
 
 이미지 설명.
 
 1. 크롤링 기능
 기존 디비
-![디비1](https://github.com/user-attachments/assets/e905a90c-5e67-4748-b9b6-acc43eb5edfb)
+<img width="1861" alt="디비1" src="https://github.com/user-attachments/assets/a5a5fb95-1f3f-4d60-aa2c-2466b3d0d3ed" />
 크롤링 성공
 <img width="973" alt="디비1_크롤링1" src="https://github.com/user-attachments/assets/05377884-ecf4-4c52-95b6-8f2208b0be7d" />
 로그
-![디비1_크롤링2](https://github.com/user-attachments/assets/3f33c74d-d7eb-411a-b52a-81b2ede374ee)
+<img width="925" alt="디비1_크롤링2" src="https://github.com/user-attachments/assets/dd186168-1316-47ef-8c8a-2a1fd3c74946" />
 결과 디비
-![디비2](https://github.com/user-attachments/assets/d467542f-1c4b-4871-a448-04f51b0b8913)
+<img width="1850" alt="디비2" src="https://github.com/user-attachments/assets/600c2a63-54d3-494d-bae3-5009eed19624" />
+
 
 
 2. 언어 모델을 이용한 AI글 생성 기능
